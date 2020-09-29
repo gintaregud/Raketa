@@ -1,0 +1,54 @@
+*{
+	box-sizing: border-box;
+}
+
+.container{
+	width:80%;
+	margin: 0 auto;
+	
+}
+header{
+	text-align: left;
+}
+*section {
+	
+	margin-top:30px auto;
+	
+	padding: 50px;
+	
+	
+	border-radius: 100%;
+}
+
+nav{
+	
+	padding: 25px;
+
+}
+nav ul li{
+	list-style: none;
+	display: inline-block;
+	padding: 5px;
+	width: 150px;
+	text-align: right;
+}
+nav ul li a {
+	text-decoration: none;
+	
+
+}
+section{
+	text-align: center;
+	font-color: white;
+	background-color: grey;
+
+}
+article{
+	display: inline-block;
+
+
+
+
+}
+
+
